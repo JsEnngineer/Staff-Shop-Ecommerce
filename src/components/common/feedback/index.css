@@ -1,0 +1,38 @@
+.feedback__dots {
+    position: absolute;
+    display: flex;
+    bottom: 0%;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.feedback__dots>div {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-right: 1rem;
+}
+
+.feedback__dots>div:nth-child(5) {
+    margin-right: unset;
+}
+
+.feedback__dots>.active__dot {
+    width: 18px;
+    border-radius: 30%;
+}
+
+.right__arrow {
+    right: 0;
+    top: 50%;
+    transform: translatey(-50%);
+    z-index: 100;
+}
+
+.left__arrow {
+    left: 0;
+    top: 50%;
+    transform: translatey(-50%) rotate(180deg);
+    z-index: 100;
+}

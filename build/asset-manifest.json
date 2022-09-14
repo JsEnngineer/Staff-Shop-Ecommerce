@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Staff-Shop-Ecommerce-Website/static/css/main.46ee0b61.chunk.css",
+    "main.js": "/Staff-Shop-Ecommerce-Website/static/js/main.cdcc3167.chunk.js",
+    "main.js.map": "/Staff-Shop-Ecommerce-Website/static/js/main.cdcc3167.chunk.js.map",
+    "runtime-main.js": "/Staff-Shop-Ecommerce-Website/static/js/runtime-main.803da14f.js",
+    "runtime-main.js.map": "/Staff-Shop-Ecommerce-Website/static/js/runtime-main.803da14f.js.map",
+    "static/css/2.c21741dc.chunk.css": "/Staff-Shop-Ecommerce-Website/static/css/2.c21741dc.chunk.css",
+    "static/js/2.600c80f2.chunk.js": "/Staff-Shop-Ecommerce-Website/static/js/2.600c80f2.chunk.js",
+    "static/js/2.600c80f2.chunk.js.map": "/Staff-Shop-Ecommerce-Website/static/js/2.600c80f2.chunk.js.map",
+    "index.html": "/Staff-Shop-Ecommerce-Website/index.html",
+    "static/css/2.c21741dc.chunk.css.map": "/Staff-Shop-Ecommerce-Website/static/css/2.c21741dc.chunk.css.map",
+    "static/css/main.46ee0b61.chunk.css.map": "/Staff-Shop-Ecommerce-Website/static/css/main.46ee0b61.chunk.css.map",
+    "static/js/2.600c80f2.chunk.js.LICENSE.txt": "/Staff-Shop-Ecommerce-Website/static/js/2.600c80f2.chunk.js.LICENSE.txt",
+    "static/media/about.578b253d.png": "/Staff-Shop-Ecommerce-Website/static/media/about.578b253d.png",
+    "static/media/index.css": "/Staff-Shop-Ecommerce-Website/static/media/right.65759820.svg",
+    "static/media/categories1.3fe5d1a1.png": "/Staff-Shop-Ecommerce-Website/static/media/categories1.3fe5d1a1.png",
+    "static/media/feedback1.d549ace0.png": "/Staff-Shop-Ecommerce-Website/static/media/feedback1.d549ace0.png",
+    "static/media/feedbackarrow.73d4293a.svg": "/Staff-Shop-Ecommerce-Website/static/media/feedbackarrow.73d4293a.svg",
+    "static/media/insta2.02092d22.png": "/Staff-Shop-Ecommerce-Website/static/media/insta2.02092d22.png",
+    "static/media/like.4178f4a1.svg": "/Staff-Shop-Ecommerce-Website/static/media/like.4178f4a1.svg",
+    "static/media/main1.e7acae6b.jpg": "/Staff-Shop-Ecommerce-Website/static/media/main1.e7acae6b.jpg",
+    "static/media/main2.f8bda9f5.jpg": "/Staff-Shop-Ecommerce-Website/static/media/main2.f8bda9f5.jpg",
+    "static/media/otzuv1.734ab849.jpg": "/Staff-Shop-Ecommerce-Website/static/media/otzuv1.734ab849.jpg",
+    "static/media/otzuv2.7b0eebae.jpg": "/Staff-Shop-Ecommerce-Website/static/media/otzuv2.7b0eebae.jpg",
+    "static/media/showroom1.0eb6c4fa.png": "/Staff-Shop-Ecommerce-Website/static/media/showroom1.0eb6c4fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803da14f.js",
+    "static/css/2.c21741dc.chunk.css",
+    "static/js/2.600c80f2.chunk.js",
+    "static/css/main.46ee0b61.chunk.css",
+    "static/js/main.cdcc3167.chunk.js"
+  ]
+}

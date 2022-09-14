@@ -1,0 +1,56 @@
+.bg {
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    width: 100%;
+    flex-shrink: 0;
+    transition: 750ms all ease-in-out;
+}
+
+.wrp {
+    transition: .750ms all ease-in-out;
+    overflow-x: hidden;
+}
+
+.wrp>svg {
+    position: absolute;
+    cursor: pointer;
+}
+
+.wrp>svg:nth-of-type(1) {
+    left: 2%;
+    top: 50%;
+}
+
+.wrp>svg:nth-child(1n) {
+    right: 2%;
+    top: 50%;
+}
+
+.dots {
+    position: absolute;
+    display: flex;
+    bottom: 3%;
+    right: 50%;
+    transform: translateX(50%);
+}
+
+.dots>div {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.dots>div:nth-child(5) {
+    margin-right: unset;
+}
+
+.dots>.active__dot {
+    width: 18px;
+    border-radius: 30%;
+}

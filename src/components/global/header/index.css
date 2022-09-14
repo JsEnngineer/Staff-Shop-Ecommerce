@@ -1,0 +1,95 @@
+button {
+    background-color: transparent;
+    border: none;
+}
+
+/* BURGER */
+.burger>div {
+    background-color: #000;
+    height: 1px;
+    width: 30px;
+    margin-top: 0.4rem;
+    transition: .2s linear;
+}
+
+.burger>div:nth-child(3) {
+    width: 20px;
+}
+
+.close>div:nth-child(3) {
+    display: none;
+}
+
+.close>div:nth-child(2) {
+    transform: rotate(-45deg);
+    margin-top: unset;
+}
+
+.close>div:nth-child(1) {
+    transform: rotate(45deg);
+    margin-top: unset;
+}
+
+/* NAVBAR */
+.navbar-expand-false.navbar {
+    border-bottom: 1px solid #E3E4E4;
+    position: relative;
+}
+
+.navbar-expand-false.navbar::before {
+    content: '';
+    position: absolute;
+    width: 248px;
+    height: 1px;
+    border-bottom: 1px solid #E3E4E4;
+    bottom: -1px;
+    left: 100%;
+}
+
+.navbar-expand-false.navbar::after {
+    content: '';
+    position: absolute;
+    width: 248px;
+    height: 1px;
+    border-bottom: 1px solid #E3E4E4;
+    bottom: -1px;
+    right: 100%;
+}
+
+.navbar>.navbar-nav {
+    flex-direction: unset;
+    justify-content: space-evenly;
+}
+
+.navbar>.navbar-brand {
+    font-size: calc(1em + 1vw);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar>.navbar-brand>p {
+    font-size: 0.475rem;
+}
+
+.navbar>.navbar-brand>p>span {
+    display: block;
+}
+
+/* COLOR SWITCH */
+
+
+
+
+.color__switch>a,
+.color__switch>p,
+.color__switch>button,
+.color__switch>.nav__wrp>.navigation__links {
+    color: #fff !important;
+    fill: #fff !important;
+    z-index: 100;
+}
+
+.color__switch>.burger>div {
+    background-color: #fff;
+
+}
